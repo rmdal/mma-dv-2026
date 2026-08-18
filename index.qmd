@@ -12,7 +12,7 @@ In this workshop, we will mostly use [Google Colab](https://colab.research.googl
 
 Please make sure you have a Google account and can access Google Colab. If you have not used Google Colab before, please go through the three Colab tutorials below to get familiar with the environment.
 
--   [Welcome to Colab!](https://colab.research.google.com/)
+-   [Welcome to Colab!](https://colab.research.google.com/notebooks/intro.ipynb)
 -   [Overview of Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
 -   [Guide to Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 
