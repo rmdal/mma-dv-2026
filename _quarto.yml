@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+    - "!part_4/*.qmd"
+    - "!*.ipynb"
+  resources:
+    - "*.ipynb"
+
+website:
+  title: "Data Visualization Bootcamp (MMA, 2026)"
+  search: false
+  navbar:
+    right:
+      - text: Home
+        icon: house-fill
+        file: index.qmd
+
+format:
+  html:
+    theme: 
+      - united
+      - custom.scss
+    fontsize: 1em
+    toc: true
+
+# editor: visual
+

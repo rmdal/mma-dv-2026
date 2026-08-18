@@ -1,0 +1,66 @@
+---
+title: "Intro to Data Visualization with Python"
+---
+
+This workshop introduces you the art and science of data visualization. You'll learn the basic principles of effective data visualization, and get hands-on with popular Python libraries to create your own compelling plots.
+
+------------------------------------------------------------------------
+
+### What To Prepare
+
+In this workshop, we will mostly use [Google Colab](https://colab.research.google.com/) as our coding environment. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.
+
+Please make sure you have a Google account and can access Google Colab. If you have not used Google Colab before, please go through the three Colab tutorials below to get familiar with the environment.
+
+-   [Welcome to Colab!](https://colab.research.google.com/)
+-   [Overview of Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+-   [Guide to Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+
+If you want to get a head start on basic plotting in Python, you can work through the below notebook from Google.
+
+-   [Charts: visualizing data](https://colab.research.google.com/notebooks/charts.ipynb)
+
+------------------------------------------------------------------------
+
+### Part I: Principles & Good Practices
+
+1.  What is a good chart, and a good way to make one
+    -   Slides (*Comming Soon*)
+2.  A quick chat about coding with AI
+    -   Slides (*Comming Soon*)
+
+### Part II: Intro to Matplotlib
+
+*Coming Soon*
+
+### Part III: Plotting Maps (with Geopandas and Matplotlib)
+
+*Coming Soon*
+
+### Part IV: Dashboarding (with Quarto and Plotly Express)
+
+*Coming Soon*
+
+------------------------------------------------------------------------
+
+### Resources
+
+-   Learning
+    -   [Good Charts](https://scottberinato.com/good-charts-book/) by Scott Berinato (main reference for Part I; available via UofT library.)
+    -   [Scientific Visualization: Python + Matplotlib](https://inria.hal.science/hal-03427242/) by Nicolas P. Rougier (mastering Matplotlib)
+    -   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+    -   Datawrapper [Blog](https://blog.datawrapper.de/)
+    -   [Flowing Data](https://flowingdata.com/) by Nathan Yau
+    -   [From Data to Viz](https://www.data-to-viz.com/) (sample code of various types of charts)
+-   Inspiration
+    -   Joseph's [Github dataviz repo](https://github.com/JosephBARBIERDARNAL/misc-dataviz) (Python)
+    -   [Dataviz Inspiration](https://www.dataviz-inspiration.com/) (various tools)
+    -   [Tanya Shapiro](https://indievisual.tech/)'s [GitHub Gallery](https://github.com/tashapiro) and [Talks](https://indievisual.tech/talks) (R)
+    -   [Danielle Navarro](https://djnavarro.net/)'s [Art from Code](https://art-from-code.netlify.app/) (R)
+    -   Georgios Karamanis's [TidyTuesday plots](https://karaman.is/) (R)
+    -   [Fronkonstin](https://fronkonstin.com/tag/ggplot2/) (R)
+    -   [Data Imaginist](https://thomaslinpedersen.art/work/#category=R) (R)
+
+------------------------------------------------------------------------
+
+Back to [MDAL Computing Page](https://rmdal.github.io/)
