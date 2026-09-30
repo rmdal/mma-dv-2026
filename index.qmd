@@ -25,9 +25,9 @@ If you want to get a head start on basic plotting in Python, you can work throug
 ### Part I: Principles & Good Practices
 
 1.  What is a good chart, and a good way to make one
-    -   Slides (*Coming Soon*)
+    -   [Slides](part_1/intro_dv.pdf)
 2.  A quick chat about coding with AI
-    -   Slides (*Coming Soon*)
+    -   [Slides](part_1/coding_with_ai.pdf)
 
 ### Part II: Intro to Matplotlib
 
@@ -42,11 +42,11 @@ If you want to get a head start on basic plotting in Python, you can work throug
 ### Part III: Plotting Maps (with Geopandas and Matplotlib)
 
 1.  Spatial data basics and plotting
-    -   Slides (*Coming Soon*)
-    -   Notebook: Geopandas intro (*Coming Soon*)
+    -   [Slides](part_3/geopandas_spatial_data_basics.pdf)
+    -   Notebook: Geopandas intro ( [![](colab-badge.svg)](https://colab.research.google.com/github/rmdal/mma-dv-2026/blob/master/docs/part_3/geopandas_intro.ipynb) )
 2.  Reproducing the [Toronto Parking Tickets Visualization](https://schoolofcities.github.io/parking-tickets-toronto/)
-    -   Slides (*Coming Soon*)
-    -   Notebook: Parking tickets (*Coming Soon*)
+    -   [Slides](part_3/geopandas_parking_tickets.pdf)
+    -   Notebook: Parking tickets ( [![](colab-badge.svg)](https://colab.research.google.com/github/rmdal/mma-dv-2026/blob/master/docs/part_3/parking_tickets_toronto.ipynb) )
 
 ### Part IV: Dashboarding (with Quarto and Plotly Express)
 
