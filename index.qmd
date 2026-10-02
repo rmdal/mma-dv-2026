@@ -50,7 +50,13 @@ If you want to get a head start on basic plotting in Python, you can work throug
 
 ### Part IV: Dashboarding (with Quarto and Plotly Express)
 
-*Coming Soon*
+-   [Slides](part_4/dashboard.pdf)
+-   Client-only interactivity
+    -   Code (layout 1): [superstore.qmd](part_4/superstore.qmd) (project [repo](https://github.com/rmdal/superstore-static-layout1); deployed [here](https://0198d1fd-44d7-b12b-afd4-23aa14d31d78.share.connect.posit.cloud/))
+    -   Code (layout 2): [superstore-l2.qmd](part_4/superstore-l2.qmd) (project [repo](https://github.com/rmdal/superstore-static-layout2); deployed [here](https://0198d207-e5de-5581-3909-1ecdc05e57f8.share.connect.posit.cloud/))
+-   Py-shiny-based interactivity
+    -   Code: [superstore-v2.qmd](part_4/superstore-v2.qmd) (project [repo](https://github.com/rmdal/superstore-dynamic); deployed [here](https://0198d213-c738-2e9d-02f3-6e596149301f.share.connect.posit.cloud/))
+-   Assets: Superstore [data](part_4/superstore.csv) and [logo](/part_4/super.png)
 
 ------------------------------------------------------------------------
 
